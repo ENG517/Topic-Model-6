@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_share_screen">
+  <title>Share Screen on Microsoft Teams</title>
+  <shortdesc>
+While in a Microsoft Teams meeting, users can present content by sharing their screen or entire desktop.
+  </shortdesc>
+  <taskbody>
+    <prereq>You must have a Microsoft account to use Teams. Screen sharing is available in both the web and app versions of Teams, on a desktop computer or mobile device.</prereq>
+    <steps>
+      <step>
+        <info><note>It is recommended you use the desktop version of Teams to share your screen.</note></info>
+      </step>
+      <step>
+        <cmd>Log into Microsoft Teams.</cmd>
+      </step>
+      <step>
+        <choices>
+          <choice>
+            Open an existing meeting link.
+          </choice>
+          <choice>Create a new Teams meeting.</choice>
+        </choices>
+      </step>
+      <step>
+        <cmd>Click the button in the upper-right corner of the screen showing an upward facing arrow inside a square.</cmd>
+        <stepxmp>
+          <object>
+            How to insert image in DITA?
+          </object>
+        </stepxmp>
+      </stepxmp>
+    </step>
+    <step>
+      <cmd>Click share <uicontrol>Tab</uicontrol>, <uicontrol>Window</uicontrol> or <uicontrol>Entire Screen</uicontrol>.</cmd>
+      <info><note>Sharing your tab will allow meeting participants to view the tab currently open on your browser. Sharing your window allows participants to view a specific window or application. All other information on the computer screen will not be shared. Sharing the entire screen allows participants to view your entire screen.</note></info>
+      </step>
+      <step>
+        <info><note>Users will see a red outline around the screen indicating that you are sharing content with those on the Teams meeting.</note></info>
+      </step>
+      <step>
+        <cmd>Click the <uicontrol>Stop Sharing</uicontrol> button to stop sharing your screen.</cmd>
+      </step>
+      <step>
+        <info><note>Users can also share computer sound while screen sharing.</note></info>
+      </step>
+      <step>
+        <cmd>Click the <uicontrol>Audio Sharing</uicontrol> button from the presenter toolbar.</cmd>
+        <info><note>The presenter toolbar contains user controls and is only visible to the person presenting.</note></info>
+      </step>
+    </steps>
+  </taskbody>
+</task>
