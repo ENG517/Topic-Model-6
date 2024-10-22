@@ -27,7 +27,7 @@
       <step>
         <cmd>Click <uicontrol>ESC</uicontrol> on the keyboard when finished to exit Speaker Coach.</cmd>
         <info><note>Your <uicontrol>Rehearsal Report</uicontrol> will be generated.</note></info>
-        <hazardstatement><messagepanel>Screenshot the <uicontrol>Rehearsal Report</uicontrol> to save your evaluation as PowerPoint does not save the report.</messagepanel></hazardstatement>
+        <info><note>Screenshot the <uicontrol>Rehearsal Report</uicontrol> to save your evaluation as PowerPoint does not save the report.</note></info>
       </step>
     </steps>
   </taskbody>
