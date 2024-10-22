@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_enter_unique_id_here">
-  <title></title>
+  <title>Speaker Coach Rehearsal Report Definitions</title>
   <shortdesc>
-
+Speaker Coach delivery feedback. 
   </shortdesc>
   <refbody>
-
+    <section>
+<dl>
+  <dlentry>
+    <dt>Pace</dt>
+    <dd>Monitors speed pacing suggestions that help increase audience recall and comprehension.</dd>
+  </dlentry>
+  <dlentry>
+    <dt>Filler Words</dt>
+    <dd>Highlights frequently used filler words like "um" and "you know."</dd>
+  </dlentry>
+  <dlentry>
+    <dt>Pitch</dt>
+    <dd>Listens for monotone pitch.</dd>
+  </dlentry>
+  <dlentry>
+    <dt>Pronounciation</dt>
+    <dd>Isolates indistinct pronunciation or mispronunciation.</dd>
+  </dlentry>
+  <dlentry>
+    <dt>Originality</dt>
+    <dd>Calls out instances when reading directly from a slide.</dd>
+  </dlentry>
+  <dlentry>
+    <dt>Inclusiveness</dt>
+    <dd>Discovers when language is not inclusive in areas like disability, gender, and race.</dd>
+  </dlentry>
+</dl>
+</section>
   </refbody>
 </reference>
