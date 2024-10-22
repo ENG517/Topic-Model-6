@@ -1,6 +1,6 @@
-# DITA Topic Model - ENTER TITLE OF PROJECT HERE
+# DITA Topic Model - Microsoft Office Suite (draft)
 
-This repo contains a DITA topic model (TM) related to [enter main goal and topic of your model here].
+This repo contains a DITA topic model (TM) related to Microsoft Office Suite.
 
 ## Authors
 
