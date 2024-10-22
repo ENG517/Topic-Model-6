@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_use_speakercoach">
+  <title>Use Microsoft Powerpoint Speaker Coach</title>
+  <shortdesc>Microsoft Powerpoint is not only used to create slide decks, but also provides tools for users to improve their presentation skills, such as Speaker Coach. Speaker Coach records a user's presentation to evaluate the presenter's pacing and pitch while detecting wordiness, use of filler words, informal speech, or culturally sensitive terms. Speaker Coach can also detect if the presenter is reading word for word from their slide deck.
+  </shortdesc>
+  <taskbody>
+    <prereq>Users must give permission to share their screen and microphone with Speaker Coach. Speaker Coach is compatible with Microsoft Edge version 15 or later, Chrome version 52 or later, and Firefox version 52 or later. Speaker Coach is currently only available in English.</prereq>
+    <steps>
+      <step><cmd>Log into Microsoft Powerpoint (on desktop or app?).</cmd></step>
+      <step>
+        <cmd>Open the presention slide deck that you want to practice with.</cmd>
+      </step>
+      <step>
+        <cmd>Click on the <uicontrol>Slide Show</uicontrol> tab.</cmd>
+      </step>
+      <step>
+        <cmd>Check that you are on the first slide in the presentation.</cmd>
+        <info><note>Ensure that Speaker Coach has access to the screen and microphone before beginning.</note></info>
+      </step>
+      <step>
+        <cmd>Click the <uicontrol>Rehearse with Coach</uicontrol> button to begin.</cmd>
+      </step>
+      <step>
+        <cmd>Complete the presentation by speaking out loud and going through the slides.</cmd>
+      </step>
+      <step>
+        <cmd>Click <uicontrol>ESC</uicontrol> on the keyboard when finished to exit Speaker Coach.</cmd>
+        <info><note>Your <uicontrol>Rehearsal Report</uicontrol> will be generated.</note></info>
+        <hazardstatement><messagepanel>Screenshot the <uicontrol>Rehearsal Report</uicontrol> to save your evaluation as PowerPoint does not save the report.</messagepanel></hazardstatement>
+      </step>
+    </steps>
+  </taskbody>
+</task>
