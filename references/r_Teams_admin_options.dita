@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Teams_admin_options">
+  <title>Teams Administration Roles</title>
+  <shortdesc>Microsoft Teams can have multiple administration roles. This highlights each role, what the role can do and which tools the admin can use.  
+  </shortdesc>
+  <refbody>
+<dl>
+  <dlentry>
+    <dt>Teams Administrator</dt>
+    <dd>Manages the meetings, voice controls, messaging, orgranation wide settings and reports.  </dd>
+  </dlentry>
+  <dlentry>
+    <dt>Teams Communications Administrator</dt>
+    <dd>Manages the calling and meeting featues in Teams."</dd>
+  </dlentry>
+  <dlentry>
+    <dt>Teams Communications Support Engineer</dt>
+    <dd>Supports and assists with any communications issues in Teams to help with qulaity control.  .</dd>
+  </dlentry>
+  <dlentry>
+    <dt>Teams Device Administrator</dt>
+    <dd>Manages devices to use with Teamssoftware.</dd>
+  </dlentry>
+  <dlentry>
+    <dt>Teams Telephony Administrator </dt>
+    <dd>Manages the telephone and voice featurs in the Teams software.</dd>
+  </dlentry>
+</dl>
+  </refbody>
+</reference>
