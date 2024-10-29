@@ -3,9 +3,45 @@
 <task id="t_share_audio">
   <title>Share Audio in Microsoft Teams Meeting</title>
   <shortdesc>
-
+    While sharing content during a Teams meeting, you can also share audio playing from your computer. When sharing audio, all sound from your computer, including notifications, will be audible to the meeting participants.
   </shortdesc>
   <taskbody>
+    <prereq>
+      You will need a Microsoft Teams account to access the meeting. You should already be sharing your screen to share audio.
+    </prereq>
+    <steps>
+      <step>
+        <info>
+          <note>On desktop, you must first allow Micrsoft Teams to access your computer audio before sharing sounds during a meeting.</note>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          Select the <uicontrol>Share</uicontrol> button, a rectangle with an upwards facing arrow.
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          Toggle the <uicontrol>Include Sound</uicontrol> button.
+        </cmd>
+      </step>
+      <step>
+        <hazardstatement>
+          <messagepanel>
+            <typeofhazard>
+              On Mac, sound issues will occassionally occur when sharing audio.
+            </typeofhazard>
+            <howtoavoid>
+              Install the latest Teams audio driver in order to include computer audio in a Teams meeting and avoid sound issues like echoing.
+            </howtoavoid>
+          </messagepanel>
+        </hazardstatement>
+      </step>
+    </steps>
+    <postreq>
+      Use only one device's mic and speaker per room while in a Teams meeting to avoid echoing sound.
+      Minimizing the number of apps active while in a meeting prevents audio-visual issues such as buffering or poor sound quality.
+    </postreq>
 
   </taskbody>
 </task>
