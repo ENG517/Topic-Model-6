@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_speaker_coach_best_use">
+  <title>Best uses for Speaker Coach</title>
+  <shortdesc>Best practices to get the most our of your Speaker Coach rehearsal report.
+
+  </shortdesc>
+  <refbody>
+<simpletable>
+      <sthead>
+        <stentry>Technology only understand English</stentry>
+        <stentry>Works best with only one speaker at a time.</stentry>        
+      </sthead>
+      <strow>
+        <stentry>Technology will improve as it is used more.</stentry>
+        <stentry>Pace, pitch, filler words, pronunciation, originality, inclusiveness, speech refinements, repetitive words, body language. Rehearsal report.</stentry>
+      </strow>
+      <strow>
+        <stentry>Will not add timing elements to slideshows.</stentry>
+        <stentry>Relax and speak slowly and clearly.</stentry>
+      </strow>
+      <strow>
+        <stentry>Pause if needed, it will not adversely affect your report.</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

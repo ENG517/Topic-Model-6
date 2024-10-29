@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_speaker_coach_feedback_versions">
+  <title>Speaker Coach Feedback Versions</title>
+  <shortdesc>
+
+  </shortdesc>
+  <refbody>
+    <simpletable>
+      <sthead>
+        <stentry>Speaker Coach Version</stentry>
+        <stentry>Feedback and Critique Available</stentry>        
+      </sthead>
+      <strow>
+        <stentry>Web</stentry>
+        <stentry>Pace, pitch, filler words, pronunciation, originality, inclusiveness, speech refinements, repetitive words, body language. Rehearsal report.</stentry>
+      </strow>
+      <strow>
+        <stentry>Desktop</stentry>
+        <stentry>Pace, pitch, filler words, originality, inclusiveness, speech refinements.</stentry>
+      </strow>
+      <strow>
+        <stentry>iOS</stentry>
+        <stentry>Pace, pitch, filler words, originality, inclusiveness, speech refinements. Summary report.</stentry>
+      </strow>
+      <strow>
+        <stentry>Android</stentry>
+        <stentry>Pace, pitch, filler words, originality, inclusiveness, speech refinements, repetitive language.</stentry>
+      </strow>
+    </simpletable>
+
+  </refbody>
+</reference>
