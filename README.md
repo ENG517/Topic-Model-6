@@ -87,11 +87,43 @@ dita -f pdf -i 'url/to/your/wanted.ditamap' \
 ```
 ## Project Maps
 ### User Scenario 1
-Insert user scenario here.
+IT trainers who will be teaching this content to employees.
+
+These trainers want to give better presentations but may be limited on time to do in person practice with a peer. 
+
+Trainers are comfortable with technology and presentation software as well as the software they are educating others on.
+
+This class is open for people to sign up to learn more information on the topic
+
+Experience: Intermediate computer user and PowerPoint user
+
+Limitations: Need basic knowledge of how to build slideshows in PowerPoint
+
+Willingness to practice their content and receive feedback to improve their teaching and presentation skills. 
+
+Environment: In an office setting (at home or at work) with little distractions 
+
+Time to deliver the entire presentation for feedback
+
 #### Map
 
 
 ### User Scenario 2
-Insert user scenario here
+Students enrolled in a public speaking course.
+
+They will use this software during the semester to learn how to better their presentation skills. They will apply their rehershal notes to their presentations during a live, online session during the semester. 
+
+Students are comfortable with technology and the presentation slides software software. 
+
+This is a class open for people to enroll to learn more information on the topic and use for a college credit. 
+
+Experience: Beginner computer user and PowerPoint software user.
+
+Limitations: Need basic knowledge of how to permit access of their computer microphone and camera.
+
+Need to understand how to giveTeams permission to share screens in their computer settings.
+
+Willingness to practice using the PowerPoint software.
+
 #### Map
 
