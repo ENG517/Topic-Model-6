@@ -106,7 +106,15 @@ Environment: In an office setting (at home or at work) with little distractions
 Time to deliver the entire presentation for feedback
 
 #### Map
-
+1. t_use_speakercoach.dita
+   1. [concept]
+   2. r_speaker_coach_feedback_versions.dita
+   3. r_speaker_coach_report_definitions.dita
+   4. r_speaker_coach_best_use.dita
+2. teams submap
+   1. r_Teams_admin_options.dita
+   2. t_share_screen.dita
+   3. r_whiteboard_features.dita
 
 ### User Scenario 2
 Students enrolled in a public speaking course.
