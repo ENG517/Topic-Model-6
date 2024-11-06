@@ -2,6 +2,11 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_enter_unique_id">
   <title>Expert_Speaker_Coach</title>
-  <topicref type="concept" href="/>
+  <topicref type = "task" href= t_use_speakercoach.dita>
+    <topicref type="concept" href="c_Speaker_Coach.dita />
+    <topicref type = "reference" href = "r_Speaker_Coach_feedback_versions.dita/>
+    <topicref type = "reference" href = "r_speaker_coach_report_definitions.dita/>
+    <topicref type = "reference" href = "r_speakr_coach_best_use.dita/>
+  </topicref>
 
 </map>
