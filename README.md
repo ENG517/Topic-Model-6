@@ -107,7 +107,7 @@ Time to deliver the entire presentation for feedback
 
 #### Map
 1. t_use_speakercoach.dita
-   1. [concept]
+   1. c_Speaker_Coach.dita
    2. r_speaker_coach_feedback_versions.dita
    3. r_speaker_coach_report_definitions.dita
    4. r_speaker_coach_best_use.dita
