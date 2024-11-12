@@ -41,7 +41,7 @@ While in a Microsoft Teams meeting, users can present content by sharing their s
       <step>
         <cmd>Click the <uicontrol>Stop Sharing</uicontrol> button to stop sharing your screen.</cmd>
       </step>
-      <step>
+      <step audience ="expert">
         <info><note>Users can also share computer sound while screen sharing.</note></info>
       </step>
       <step>
