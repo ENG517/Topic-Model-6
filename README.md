@@ -134,4 +134,8 @@ Need to understand how to giveTeams permission to share screens in their compute
 Willingness to practice using the PowerPoint software.
 
 #### Map
-
+1. c_Speaker_Coach.dita
+   1. (references/r_speaker_coach_report_definitions.dita)
+   2. (references/r_speaker_coach_feedback_versions.dita)
+   3. references/r_speaker_coach_best_use.dita
+2. t_use_speakercoach.dita

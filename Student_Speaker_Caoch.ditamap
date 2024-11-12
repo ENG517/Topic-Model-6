@@ -4,7 +4,7 @@
   <title>Speaker Coach IT Use</title>
   <topicref type="task" href="t_share_screen.dita">
     <topicref type="reference" href="r_speaker_coach_feedback_versions.dita"/>
-    <!-- <topicref type="reference" href="r_speaker_coach_report_definitions.dita"/>
-    <topicref type="reference" href="r_speaker_coach_best_use.dita"/> -->
+    <topicref type="reference" href="r_speaker_coach_report_definitions.dita"/>
+    <topicref type="reference" href="r_speaker_coach_best_use.dita"/>
   </topicref>
 </map>
