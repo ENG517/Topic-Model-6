@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_enter_unique_id">
-  <title>Teams Screen Sharing</title>
+  <title>Microsoft Teams Guide</title>
   <topicref type="reference" href="references/r_Teams_admin_options.dita"/>
   <topicref type="task" href="tasks/t_share_screen.dita"/>
+  <topicref type="task" href="tasks/t_record_meeting.dita">
+    <topicref type="reference" href="references/r_teams_recording_roles.dita"/>
+  </topicref>
   <topicref type="reference" href="references/r_whiteboard_features.dita"/>
 </map>
