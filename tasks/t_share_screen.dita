@@ -8,11 +8,11 @@ While in a Microsoft Teams meeting, users can present content by sharing their s
   <taskbody>
     <prereq>You must have a Microsoft account to use Teams. Screen sharing is available in both the web and app versions of Teams, on a desktop computer or mobile device.</prereq>
     <steps>
-      <step>
+      <step audience="novice">
         <cmd>Open or start Microsoft Teams.</cmd>
         <info><note type="tip">It is recommended you use the desktop version of Teams to share your screen.</note></info>
       </step>
-      <step>
+      <step audience="novice">
         <cmd>Log into Microsoft Teams.</cmd>
       </step>
       <step>
