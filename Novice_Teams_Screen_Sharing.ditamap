@@ -7,5 +7,5 @@
   <topicref type="task" href="tasks/t_record_meeting.dita">
     <topicref type="reference" href="references/r_teams_recording_roles.dita"/>
   </topicref>
-  <topicref type="reference" href="references/r_whiteboard_features.dita"/>
+  <topicref type="reference" href="references/r_whiteboard_features.dita" audience="expert"/>
 </map>
