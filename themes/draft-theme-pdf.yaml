@@ -2,10 +2,22 @@
 #
 # https://www.dita-ot.org/dev/topics/sample-pdf-theme.html
 
+# NOTE: Make one theme for Teams and one for PPT?
+
 # ↓ add-brand-colors ↓
 brand:
   color:
-    primary: '#1d365d'
+    primary:
+      t1: '#4E5FBF'
+      t2: '#8091F2'
+      t3: '#5864A6'
+      t4: '#F2F2F2'
+      t5: '#0D0D0D'
+      p1: '#d04423'
+      p2: '#ee6c45'
+      p3: '#fe906b'
+      p4: '#F2F2F2'
+      p5: '#0D0D0D'
     secondary: '#6c757d'
     tertiary: '#bac8d1'
     inverse: '#e9ecef'
@@ -22,9 +34,18 @@ brand:
 # ↓ add-font-stacks ↓
 pdf2:
   font:
-    sans: 'Lucida Grande, Public Sans, Segoe UI'
-    serif: 'Arial Unicode MS'
-    display: 'Segoe UI'
+    families:
+      sans: 'Lucida Grande, Public Sans, Segoe UI'
+      serif: 'Arial Unicode MS'
+      display: 'Segoe UI'
+    sizing:
+      title: 51pt
+      h1: 45pt
+      h2: 33pt
+      h3: 24.5pt
+      copy: 18pt
+      uicontrol: 18.5pt
+      small: 13pt
 # ↑ end-font-stacks ↑
 
 # ↓ add-page-settings ↓
