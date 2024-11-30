@@ -25,7 +25,7 @@ While in a Microsoft Teams meeting, users can present content by sharing their s
         </choices>
       </step>
       <step>
-        <cmd>Click the button in the upper-right corner of the screen showing an upward facing arrow inside a square.</cmd>
+        <cmd>Click the <uicontrol>Share</uicontrol> button.</cmd>
       </step>
       <step>
         <cmd>Click share <uicontrol>Tab</uicontrol>, <uicontrol>Window</uicontrol> or <uicontrol>Entire Screen</uicontrol>.</cmd>

@@ -28,7 +28,7 @@
       <step audience="expert">
         <cmd>In your meeting controls, select <uicontrol>More actions</uicontrol>, <uicontrol>Record and transcribe</uicontrol>, then <uicontrol>Start recording</uicontrol>.</cmd>
         <info>
-          <note>A recording of a Teams meeting won't capture more than four video streams at once, whiteboards, shared notes, content shared by apps, or videos embedded in <uicontrol>PowerPoint</uicontrol> presentations.</note>
+          <note>A recording of a Teams meeting won't capture more than four video streams at once. Whiteboards, shared notes, content shared by apps, or videos embedded in <uicontrol>PowerPoint</uicontrol> presentations will not be recorded either.</note>
       </info>
       </step>
       <step audience="novice">
