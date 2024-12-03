@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<!-- Be sure to check and change all IDs throughout the model. -->
 <reference id="r_enter_unique_id_here">
   <title>Teams Meeting Recording Roles</title>
   <shortdesc>

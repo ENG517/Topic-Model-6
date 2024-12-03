@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<!-- COMMENTS
+  - Never use whitepaces around attributes/values.
+  - Check and change throughout the model.
+-->
 <map id="m_enter_unique_id">
   <title>Expert_Speaker_Coach</title>
   <topicref type= "task" href= "tasks/t_use_speakercoach.dita">
@@ -8,5 +12,5 @@
     <topicref type= "reference" href = "references/r_speaker_coach_report_definitions.dita"/>
     <topicref type= "reference" href = "references/r_speaker_coach_best_use.dita"/>
   </topicref>
-  <topicref type= "map" href= "Novice_Teams_Screen_Sharing.ditamap"/>
+  <topicref type="map" href="Novice_Teams_Screen_Sharing.ditamap"/>
 </map>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<!-- This task is never used. Should it be used? -->
 <task id="t_share_audio">
   <title>Share Audio in Microsoft Teams Meeting</title>
   <shortdesc>
@@ -28,7 +29,12 @@
       </step>
       <step>
         <cmd>Install the latest Teams audio driver in order to include computer audio in a Teams meeting and avoid sound issues like echoing.</cmd>
-        <info><note>On Mac, sound issues will occassionally occur when sharing audio.</note></info>
+        <info>
+          <note type="attention">
+            On Mac, sound issues will occassionally occur when sharing audio.
+          </note>
+        </info>
+        <!-- <info><note>On Mac, sound issues will occassionally occur when sharing audio.</note></info> -->
       </step>
     </steps>
     <postreq>
