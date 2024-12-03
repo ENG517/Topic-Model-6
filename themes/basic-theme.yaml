@@ -56,7 +56,7 @@ colors:
 ########
 fonts:
   families:
-   'Lucida Grande, Public Sans, Segoe UI'
+      copy: 'Lucida Grande, Public Sans, Segoe UI'
       serif: 'Arial Unicode MS'
       display: 'Segoe UI'
   sizing:
@@ -114,7 +114,7 @@ style:
     title-numbering: true
     break-before: page
   h2:
-    font-family: $fonts-families-headings
+    font-family: $fonts-families-display
     font-size: $fonts-sizing-h2
     line-height: $spacing-lines-xlarge
     border-after: solid 1pt $colors-primary-s1
@@ -122,18 +122,18 @@ style:
     # Add numbering in toc, headers, footers, when applicable
     title-numbering: true
   h3:
-    font-family: $fonts-families-headings
+    font-family: $fonts-families-display
     font-size: $fonts-sizing-h3
     line-height: $spacing-lines-large
     color: $colors-primary-main
   h4:
-    font-family: $fonts-families-headings
+    font-family: $fonts-families-display
     font-size: $fonts-sizing-h4
   h5:
-    font-family: $fonts-families-headings
+    font-family: $fonts-families-display
     font-size: $fonts-sizing-h5
   h6:
-    font-family: $fonts-families-headings
+    font-family: $fonts-families-display
     font-size: $fonts-sizing-h6
   li:
     margin-bottom: $spacing-lines-medium
@@ -173,7 +173,7 @@ style:
     keep-together.within-page: always
   option:
     color: $colors-secondary-main
-    font-family: $fonts-families-monospaced
+    font-family: $fonts-families-serif
   table:
     caption:
       color: $colors-secondary-main
@@ -185,7 +185,7 @@ style:
     font-style: italic
     font-size: $fonts-sizing-uicontrol
   uicontrol:
-    font-family: $fonts-families-monospaced
+    font-family: $fonts-families-serif
     background-color: $colors-secondary-s1
     color: $colors-primary-main
     font-size: $fonts-sizing-uicontrol
@@ -198,7 +198,7 @@ header:
   color: $colors-primary-main
   display-align: before
   end-indent: 10mm
-  font-family: $fonts-families-headings
+  font-family: $fonts-families-display
   font-size: $fonts-sizing-small
   font-weight: light
   padding-after: $spacing-lines-small
@@ -217,7 +217,7 @@ header:
 footer:
   color: $colors-primary-main
   end-indent: 10mm
-  font-family: $fonts-families-headings
+  font-family: $fonts-families-display
   font-size: $fonts-sizing-small
   padding-after: $spacing-lines-small
   padding-before: $spacing-lines-medium
