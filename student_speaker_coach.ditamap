@@ -3,18 +3,18 @@
 <map id="m_enter_unique_id">
 <<<<<<< Updated upstream
   <title>Speaker Coach Student Use</title>
-  <topicref type="concept" href="c_Speaker_Coach.dita" audience="novice">
+  <topicref type="concept" href="c_speaker_coach.dita" audience="novice">
     <topicref type="reference" href="references/r_speaker_coach_feedback_versions.dita"/>
     <topicref type="reference" href="references/r_speaker_coach_report_definitions.dita"/>
     <topicref type="reference" href="references/r_speaker_coach_best_use.dita"/>
 =======
   <title>Student_Speaker_Coach</title>
-  <topicref type="concept" href="concept/c_Speaker_Coach.dita">
+  <topicref type="concept" href="concept/c_speaker_coach.dita">
     <topicref type="reference" href="references/r_speaker_coach_report_definitions.dita" />
     <topicref type="reference" href="references/r_speaker_coach_feedback_versions.dita" />
     <topicref type="reference" href="references/r_speaker_coach_best_use.dita" />
 >>>>>>> Stashed changes
   </topicref>
   <topicref type="task" href="tasks/t_use_speakercoach.dita"/>
-  <topicref type= "map" href= "Novice_Teams_Screen_Sharing.ditamap"/>
+  <topicref type= "map" href= "novice_teams_screen_sharing.ditamap"/>
 </map>
