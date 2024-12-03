@@ -25,9 +25,11 @@ While in a Microsoft Teams meeting, users can present content by sharing their s
         </choices>
       </step>
       <step>
+        <!-- Try to use the terminology of the UI, as you do in the next step, so you can also use the uicontrol element. -->
         <cmd>Click the button in the upper-right corner of the screen showing an upward facing arrow inside a square.</cmd>
       </step>
       <step>
+        <!-- This seems like a choices or choicetable option too. Then, each choice will also have its own info>note. -->
         <cmd>Click share <uicontrol>Tab</uicontrol>, <uicontrol>Window</uicontrol> or <uicontrol>Entire Screen</uicontrol>.</cmd>
         <info><note>Sharing your tab will allow meeting participants to view the tab currently open on your browser. Sharing your window allows participants to view a specific window or application. All other information on the computer screen will not be shared. Sharing the entire screen allows participants to view your entire screen.</note></info>
       </step>
@@ -40,7 +42,12 @@ While in a Microsoft Teams meeting, users can present content by sharing their s
       </step>
       <step>
         <cmd>Click the <uicontrol>Audio Sharing</uicontrol> button from the presenter toolbar.</cmd>
-        <info><note> Users can also share computer sound while screen sharing. The presenter toolbar contains user controls and is only visible to the person presenting.</note></info>
+        <!-- Please revise your info>note format throughout. Also, consider providing the appropriate type of note attribute and value. -->
+        <info>
+          <note type="tip">
+            Users can also share computer sound while screen sharing. The presenter toolbar contains user controls and is only visible to the person presenting.
+          </note>
+        </info>
       </step>
     </steps>
   </taskbody>

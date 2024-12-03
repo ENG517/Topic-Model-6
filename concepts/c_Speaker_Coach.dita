@@ -2,9 +2,16 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_enter_unique_id_here">
   <title>PowerPoint Speaker Coach</title>
-  <shortdesc>Whether you are engaging in a discussion, giving reports, or presenting material, presentation skills are critical.Speaker Coach is a tool in Microsoft’s PowerPoint software and can assist in enhancing your presentation skills. Speaker Coach uses AI that has been trained to understand what a good presentation sounds and looks like. By using your device’s microphone Speaker Coach can provide real-time analysis of a speaker’s communication style to help them present information more effectively.
+  <shortdesc>
+    Whether you are engaging in a discussion, giving reports, or presenting material, presentation skills are critical.Speaker Coach is a tool in Microsoft’s PowerPoint software and can assist in enhancing your presentation skills. Speaker Coach uses AI that has been trained to understand what a good presentation sounds and looks like. By using your device’s microphone Speaker Coach can provide real-time analysis of a speaker’s communication style to help them present information more effectively.
   </shortdesc>
   <conbody>
+    <!-- COMMENTS
+      - Each paragraph should be in its own paragraph element. 
+      - Also, I recommend using section elements to break up this concept topic.
+      - Additionally, there seems to be some odd arrangments of the content too. For example, it seems like the line "Speaker Coach can help you ..." honestly serves as a more succinct shortdesc, or  at least the first sentence for this concept. From there, you can use the section element to break up the topic into those parts, such as "Pace", "Pitch", etc.
+      - Take this feedback and extrapolate it across your other concepts.
+    -->
     <p>
       When giving a presentation it is important to maintain an appropriate pace and avoid filler words to help your audience easily follow your message. This in turn can enhance your credibility as a speaker, and prevents distractions that can detract from the core points conveyed. Speaking too quickly or using excessive "ums" and "ahs" can make you appear unprepared, nervous, and can make it hard for the audience to understand your message. 
       Speaker Coach can help you improve your presentation skills by providing real-time feedback on your delivery. This includes feedback on pace, pitch, and word choice.
