@@ -10,7 +10,9 @@ While in a Microsoft Teams meeting, users can present content by sharing their s
     <steps>
       <step audience="novice">
         <cmd>Open or start Microsoft Teams.</cmd>
-        <info><note type="tip">It is recommended you use the desktop version of Teams to share your screen.</note></info>
+        <info>
+          <note type="tip">It is recommended you use the desktop version of Teams to share your screen.</note>
+        </info>
       </step>
       <step audience="novice">
         <cmd>Log into Microsoft Teams.</cmd>
