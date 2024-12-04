@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="m_enter_unique_id">
+<map id="m_student_speaker_coach">
   <title>Speaker Coach Student Use</title>
   <topicref type="concept" href="c_speaker_coach.dita" audience="novice">
     <topicref type="reference" href="references/r_speaker_coach_feedback_versions.dita"/>
