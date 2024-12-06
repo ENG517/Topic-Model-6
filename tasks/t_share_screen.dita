@@ -52,7 +52,8 @@
         </info>
       </step>
       <step>
-        <cmd>Click the <uicontrol>Stop Sharing</uicontrol> button to stop sharing your screen.</cmd>
+        <cmd>Check that there is a red outline around the presentation screen.</cmd>
+        <info><note>Users will also see a red outline around the screen indicating that you are sharing content with those on the Teams meeting.</note></info>
       </step>
       <step audience="expert">
         <cmd>Click the <uicontrol>Audio Sharing</uicontrol> button from the presenter toolbar.</cmd>

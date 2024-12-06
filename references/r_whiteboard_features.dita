@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_whiteboard_features">
+  <title>Teams Whiteboard Features</title>
+  <shortdesc>
+Whiteboard has a multitude of features for use in a Teams meeting on desktop or in the app version.
+  </shortdesc>
+  <refbody>
+<simpletable>
+  <sthead>
+    <stentry>Name</stentry>
+    <stentry>Function</stentry>
+  </sthead>
+  <strow>
+    <stentry>Follow</stentry>
+    <stentry>Allow allow participants to follow your point of view during a meeting.</stentry>
+  </strow>
+  <strow>
+    <stentry>Text</stentry>
+    <stentry>Add a text box to the whiteboard. Text color can be changed but the font cannot be changed.</stentry>
+  </strow>
+  <strow>
+    <stentry>Notes</stentry>
+    <stentry>Add a sticky note to the whiteboard. Choose the note color and type in the sticky note's text box.</stentry>
+  </strow>
+  <strow>
+    <stentry>Draw</stentry>
+    <stentry>Digital ink with 15 colors, 15 highlighters, ink arrows, and various thicknesses. <uicontrol>Draw</uicontrol> also contains the <uicontrol>Laser Pointer</uicontrol> tool for temporarily hihglighting areas of the board.</stentry>
+  </strow>
+  <strow>
+    <stentry>Ruler</stentry>
+    <stentry>Used to draw straight lines on the whiteboard canvas.</stentry>
+  </strow>
+  <strow>
+    <stentry>Enhance Shapes</stentry>
+    <stentry>Changes hand-drawn shapes to precise shapes automatically. Toggle off or on in <uicontrol>Settings</uicontrol>.</stentry>
+  </strow>
+  <strow>
+    <stentry>Shapes</stentry>
+    <stentry>Eight common shapes.</stentry>
+  </strow>
+  <strow>
+    <stentry>Reactions</stentry>
+    <stentry>Eight reactions, such as thumbs up, heart, check box, or smiley face.</stentry>
+  </strow>
+  <strow>
+    <stentry>Templates</stentry>
+    <stentry>Template with whiteboard elements arranged for collaboration and planning. Includes templates designed for brainstorming, retrospectives, workshops, and other uses.</stentry>
+  </strow>
+</simpletable>
+  </refbody>
+</reference>

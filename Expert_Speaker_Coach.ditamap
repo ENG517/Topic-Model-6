@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_expert_speaker_coach">
+  <title>Expert_Speaker_Coach</title>
+  <topicref type= "task" href= "tasks/t_use_speakercoach.dita">
+    <topicref type="concept" href="concepts/c_speaker_coach.dita"/>
+    <topicref type= "reference" href = "references/r_speaker_coach_feedback_versions.dita"/>
+    <topicref type= "reference" href = "references/r_speaker_coach_report_definitions.dita"/>
+    <topicref type= "reference" href = "references/r_speaker_coach_best_use.dita"/>
+  </topicref>
+  <topicref type= "map" href= "novice_teams_screen_sharing.ditamap"/>
+</map>
