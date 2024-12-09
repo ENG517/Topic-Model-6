@@ -17,30 +17,29 @@
 #########
 colors:
   primary: 
-    t1: '#4E5FBF' #Teams Blue
-    t2: '#8091F2'
-    t3: '#5864A6'
-    t4: '#F2F2F2'
-    t5: '#0D0D0D'
-    p1: '#d04423' #PPT Red
-    p2: '#ee6c45'
-    p3: '#fe906b'
-    p4: '#F2F2F2'
-    p5: '#0D0D0D'
+    main: '#00A3EE' #MS Blue
+    p1: '#16ACF2'
+    p2: '#15A6EA'
+    p3: '#128EC7'
+    p4: '#0C5E84'
   secondary: 
-    main: '#f44336' #Dark Red
-    s1: '#ffdde0'
-    s2: '#ffcdd2'
-    s3: '#ef9a9a'
-    s4: '#d32f2f'
-    s5: '#b71c1c'
+    main: '#FF3700' #MS Red
+    s1: '#F14F21'
+    s2: '#D42E00'
+    s3: '#B32700'
+    s4: '#911F00'
+  tertiary: 
+    main: '91D400'  #MS Green
+    t1: '74A900'
+    t2: '7EB900'
+    t3: '5C8700'
+    t4: '456500'
   accent1:
-    main: '#f1b211' #Golden rod yellow
-    s1: '#f9f1dc'
-    s2: '#f4dea7'
-    s3: '#f2cb69'
-    s4: '#f0bb34'
-    s5: '#e4a80b'
+    main: '#FEB800' #MS Yellow
+    s1: '#F6B100'
+    s2: '#D49800'
+    s3: '#B38000'
+    s4: '#916800'
   neutrals: # No need to change neutrals
     s1: '#f2f2f2'
     s2: '#e8e9e9'
