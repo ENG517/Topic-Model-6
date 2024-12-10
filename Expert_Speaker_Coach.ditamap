@@ -8,5 +8,6 @@
     <topicref type="reference" href="references/r_speaker_coach_report_definitions.dita"/>
     <topicref type="reference" href="references/r_speaker_coach_best_use.dita"/>
   </topicref>
+  <topicref type="task" href="tasks/t_share_audio.dita" audience="expert"/>
   <topicref type="map" href="novice_teams_screen_sharing.ditamap"/>
 </map>
