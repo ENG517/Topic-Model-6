@@ -2,13 +2,13 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_speaker_coach_best_use">
   <title>Best uses for Speaker Coach</title>
-  <shortdesc>Best practices to get the most our of your Speaker Coach rehearsal report.
-
+  <shortdesc>
+    Best practices to get the most our of your Speaker Coach rehearsal report.
   </shortdesc>
   <refbody>
-<simpletable>
+    <simpletable>
       <sthead>
-        <stentry>Technology only understand English</stentry>
+        <stentry>Technology only understands English.</stentry>
         <stentry>Works best with only one speaker at a time.</stentry>        
       </sthead>
       <strow>
