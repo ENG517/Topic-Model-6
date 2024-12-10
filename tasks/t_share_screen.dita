@@ -31,7 +31,7 @@
         <cmd>Click the <uicontrol>Share</uicontrol> button to open the screen-sharing menu.</cmd>
         <stepxmp>
           <image>
-            <alt>[The Teams screen-sharing menu.](assets\images\teamsshare.png)</alt>
+            <alt>![The Teams screen-sharing menu.](assets\images\teamsshare.png)</alt>
           </image>
         </stepxmp>
       </step>

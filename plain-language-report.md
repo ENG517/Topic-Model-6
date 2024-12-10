@@ -1,25 +1,21 @@
-(link to doc style guide)
-Submit the assignment via Github in your repo as a .md (markdown) file in the root of your folder. Name it as the following: plain-language-report.md.
-The summary report should provide a review of the most significant aspects to edit throughout the model with the PL editing techniques.
-You should also provide representative examples, which you can (1) represent as images for comparison and (2) links directly to pull requests.
+**(Team 6 Document Style Guide)[https://docs.google.com/document/d/1gQltgBQYRpUlLy5NDRy6GF0LsttyoVngRHnMZvRr4rA/edit?usp=sharing]**
 
-**Updates made to final project** 
--Changed all names to lowercase letters
+## Plain Language Report
 
--Changed all names in content to lowercase letters
+In editing for plain language, the most significant and common aspects that were edited in the repository involved restrictive references, consistent organizing, and consistent term usage.
 
--Added unique ids that were missing
+To ensure consistent term usage, we relied on the uicontrol element often. In [tasks/t_share_screen.dita], we had to edit a command using the paramedic method to get to the action and eliminate unnecessary wordiness, and to consistently use company term's. See also our (pull request)[https://github.com/ENG517/Topic-Model-6/pull/8/commits/632c1818c7cdb0a2aafa8c48811855df9a5f3524] for the context of the edit.
 
--Edited all content to better follow plain language guidelines. 
+Original:
+> <cmd>Click the button in the upper-right corner of the screen showing an upward facing arrow inside a square.</cmd>
 
--Worked to remove unnecessary prepositional phrases.
+Edited:
+> <cmd>Click the <uicontrol>Share</uicontrol> button to open the screen-sharing menu.</cmd>
 
--Used verbs and active voice
+This edit also fixed a restrictive reference, as the command identified the location of the Share button as being in the upper-right corner of the screen, which may not be the case on mobile, Mac/PC, or on the web version of Teams.
 
--Included (and edited) tables and lists content per review suggestions. dl -> sl (teams-reference)
+Organizing files with topic sections was not consistently utilized in the repository until this round of editing.
+Going through, we made sure to keep only 1 paragraph in the p element and to break up large sections of text. The concept topics were the usual suspects for large blocks of text with little-to-no organization.
 
--Removed restrictive references
+In [concepts/c_Speaker_Coach.dita], there were a number of organizing issues that has to be resolved, which included separating paragraphs with sections and separate topic titles. See the (pull request)[https://github.com/ENG517/Topic-Model-6/pull/9/files] for more context regarding the edits.
 
--Note editing (prof feedback)
-
--Updated Color palette 
