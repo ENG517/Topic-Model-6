@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+
 <reference id="r_teams_admin_options">
+
   <title>Teams Administration Roles</title>
   <shortdesc>
     Microsoft Teams can have multiple administration roles. This highlights each role, what the role can do and which tools the admin can use.  

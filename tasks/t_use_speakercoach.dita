@@ -7,7 +7,7 @@
   <taskbody>
     <prereq>Users must give permission to share their screen and microphone with Speaker Coach. Speaker Coach is compatible with Microsoft Edge version 15 or later, Chrome version 52 or later, and Firefox version 52 or later. Speaker Coach is currently only available in English.</prereq>
     <steps>
-      <step><cmd>Log into Microsoft Powerpoint (on desktop or app?).</cmd></step>
+      <step audience="novice"><cmd>Log into Microsoft Powerpoint.</cmd></step>
       <step>
         <cmd>Open the presention slide deck that you want to practice with.</cmd>
       </step>

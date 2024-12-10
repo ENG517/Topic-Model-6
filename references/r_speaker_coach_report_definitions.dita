@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="r_speaker_coach_report_define">
+
+<reference id="r_speaker_coach_report_definitions">
+
   <title>Speaker Coach Rehearsal Report Definitions</title>
   <shortdesc>
     Definitions of the Speaker Coach delivery feedback. 

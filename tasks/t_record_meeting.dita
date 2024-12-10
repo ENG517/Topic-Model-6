@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_record_meeting">
+  <title>Record Teams Meeting</title>
+  <shortdesc>
+    One participant can record a Teams meeting at a time. When you start recording a meeting, everyone will be notified automatically. You can also turn on live transcriptions and view them during the meeting. A copy of the recorded meeting is saved to <uicontrol>OneDrive for Business</uicontrol>.
+  </shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Log in to Microsoft Teams.</cmd>
+      </step>
+      <step>
+        <cmd>Start or join a meeting.</cmd>
+      </step>
+      <step audience="novice">
+        <cmd>In your meeting control panel, select the ellipses icon labelled <uicontrol>More actions</uicontrol>.</cmd>
+      </step>
+      <step audience="novice">
+        <cmd>Select the <uicontrol>Record and transcribe</uicontrol> button.</cmd>
+        <info>
+          <note>Live transcription begins automatically when recording a Teams meeting.</note>
+        </info>
+      </step>
+      <step audience="novice">
+        <cmd>Click <uicontrol>Start recording</uicontrol>.</cmd>
+      </step>
+      <step audience="expert">
+        <cmd>In your meeting controls, select <uicontrol>More actions</uicontrol>, <uicontrol>Record and transcribe</uicontrol>, then <uicontrol>Start recording</uicontrol>.</cmd>
+        <info>
+          <note>A recording of a Teams meeting won't capture more than four video streams at once, whiteboards, shared notes, content shared by apps, or videos embedded in <uicontrol>PowerPoint</uicontrol> presentations.</note>
+      </info>
+      </step>
+      <step audience="novice">
+        <cmd>Select <uicontrol>More actions</uicontrol> from the meeting control panel.</cmd>
+      </step>
+      <step audience="novice">
+        <cmd>Open the <uicontrol>Record and transcribe</uicontrol> menu.</cmd>
+      </step>
+      <step audience="expert">
+        <cmd>Select <uicontrol>More actions</uicontrol> then <uicontrol>Record and transcribe</uicontrol> to open the meeting control panel.</cmd>
+      </step>
+      <step>
+        <cmd>Select one of the following options to end a recording.</cmd>
+        <choices>
+          <choice>"<uicontrol>Stop recording</uicontrol> stops the recording of the meeting and the live transcription.</choice>
+          <choice><uicontrol>Stop transcription</uicontrol> stops the live transcription of the meeting but the recording will continue.</choice>
+        </choices>
+        <info>
+          <note>Depending on the type of Teams meeting, the recording will either be processed and saved in the organizer's <uicontrol>OneDrive for Business</uicontrol> or in the meeting chat conversation if meeting in a Teams channel.</note>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>
