@@ -16,7 +16,7 @@
       </step>
       <step>
         <cmd>Check that you are on the first slide in the presentation.</cmd>
-        <info><note>Ensure that Speaker Coach has access to the screen and microphone before beginning.</note></info>
+        <info><note type="attention">Ensure that Speaker Coach has access to the screen and microphone before beginning.</note></info>
       </step>
       <step>
         <cmd>Click the <uicontrol>Rehearse with Coach</uicontrol> button to begin.</cmd>
@@ -26,8 +26,8 @@
       </step>
       <step>
         <cmd>Click <uicontrol>ESC</uicontrol> on the keyboard when finished to exit Speaker Coach.</cmd>
-        <info><note>Your <uicontrol>Rehearsal Report</uicontrol> will be generated.</note></info>
-        <info><note>Screenshot the <uicontrol>Rehearsal Report</uicontrol> to save your evaluation as PowerPoint does not save the report.</note></info>
+        <info><note type="note">Your <uicontrol>Rehearsal Report</uicontrol> will be generated.</note></info>
+        <info><note type="attention">Screenshot the <uicontrol>Rehearsal Report</uicontrol> to save your evaluation as PowerPoint does not save the report.</note></info>
       </step>
     </steps>
   </taskbody>

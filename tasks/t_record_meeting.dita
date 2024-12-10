@@ -19,7 +19,7 @@
       <step audience="novice">
         <cmd>Select the <uicontrol>Record and transcribe</uicontrol> button.</cmd>
         <info>
-          <note>Live transcription begins automatically when recording a Teams meeting.</note>
+          <note type="note">Live transcription begins automatically when recording a Teams meeting.</note>
         </info>
       </step>
       <step audience="novice">
@@ -28,7 +28,7 @@
       <step audience="expert">
         <cmd>In your meeting controls, select <uicontrol>More actions</uicontrol>, <uicontrol>Record and transcribe</uicontrol>, then <uicontrol>Start recording</uicontrol>.</cmd>
         <info>
-          <note>A recording of a Teams meeting won't capture more than four video streams at once, whiteboards, shared notes, content shared by apps, or videos embedded in <uicontrol>PowerPoint</uicontrol> presentations.</note>
+          <note type="attention">A recording of a Teams meeting won't capture more than four video streams at once, whiteboards, shared notes, content shared by apps, or videos embedded in <uicontrol>PowerPoint</uicontrol> presentations.</note>
       </info>
       </step>
       <step audience="novice">
@@ -47,7 +47,7 @@
           <choice><uicontrol>Stop transcription</uicontrol> stops the live transcription of the meeting but the recording will continue.</choice>
         </choices>
         <info>
-          <note>Depending on the type of Teams meeting, the recording will either be processed and saved in the organizer's <uicontrol>OneDrive for Business</uicontrol> or in the meeting chat conversation if meeting in a Teams channel.</note>
+          <note type="note">Depending on the type of Teams meeting, the recording will either be processed and saved in the organizer's <uicontrol>OneDrive for Business</uicontrol> or in the meeting chat conversation if meeting in a Teams channel.</note>
         </info>
       </step>
     </steps>

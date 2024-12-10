@@ -13,7 +13,9 @@
       <step audience="novice">
         <cmd>Allow Microsoft Teams access to your computer audio.</cmd>
         <info>
-          <note>On desktop, you must first allow Micrsoft Teams to access your computer audio before sharing sounds during a meeting.</note>
+          <note type="attention">
+            On desktop, you must first allow Micrsoft Teams to access your computer audio before sharing sounds during a meeting.
+          </note>
         </info>
       </step>
       <step>
@@ -28,13 +30,16 @@
       </step>
       <step>
         <cmd>Install the latest Teams audio driver in order to include computer audio in a Teams meeting and avoid sound issues like echoing.</cmd>
-        <info><note>On Mac, sound issues will occassionally occur when sharing audio.</note></info>
+        <info>
+          <note type="notice">
+            On Mac, sound issues will occassionally occur when sharing audio.
+          </note>
+        </info>
       </step>
     </steps>
     <postreq>
       Use only one device's mic and speaker per room while in a Teams meeting to avoid echoing sound.
       Minimizing the number of apps active while in a meeting prevents audio-visual issues such as buffering or poor sound quality.
     </postreq>
-
   </taskbody>
 </task>
