@@ -7,7 +7,7 @@
   </shortdesc>
   <refbody>
     <section>
-      <p> There are several criteria that determine which participants can start or stop a recording if the meeting organizer has their cloud recording policy setting turned on.</p>
+      <p>There are several criteria that determine which participants can start or stop a recording if the meeting organizer has their cloud recording policy setting turned on.</p>
       <ul>
         <li>Has one of the following licenses: Office 365 Enterprise E1, E3, E5, F3, A1, A3, A5, M365 Business, Business Premium, or Business Essentials.</li>
         <li>Has recording enabled by an IT admin.</li>

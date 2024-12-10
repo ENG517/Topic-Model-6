@@ -3,7 +3,7 @@
 <reference id="r_speaker_coach_feedback_versions">
   <title>Speaker Coach Feedback Versions</title>
   <shortdesc>
-
+    The feedback options available in different versions of Speaker Coach.
   </shortdesc>
   <refbody>
     <simpletable>
@@ -28,6 +28,5 @@
         <stentry>Pace, pitch, filler words, originality, inclusiveness, speech refinements, repetitive language.</stentry>
       </strow>
     </simpletable>
-
   </refbody>
 </reference>
