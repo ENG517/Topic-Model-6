@@ -34,14 +34,27 @@
             <alt>[The Teams screen-sharing menu.](assets\images\teamsshare.png)</alt>
           </image>
         </stepxmp>
-    </step>
-    <step>
-      <cmd>Click share <uicontrol>Tab</uicontrol>, <uicontrol>Window</uicontrol> or <uicontrol>Entire Screen</uicontrol>.</cmd>
-      <info>
-        <note type="note">
-        Sharing your tab will allow meeting participants to view the tab currently open on your browser. Sharing your window allows participants to view a specific window or application. All other information on the computer screen will not be shared. Sharing the entire screen allows participants to view your entire screen.
-        </note>
-      </info>
+      </step>
+      <step>
+        <cmd>Choose what you'd like to share with the meeting audience.</cmd>
+        <choicetable>
+          <chhead>
+            <choptionhd>Option</choptionhd>
+            <chdeschd>View</chdeschd>
+          </chhead>
+          <chrow>
+            <choption>Share <uicontrol>Tab</uicontrol></choption>
+            <chdesc>Sharing your tab will allow meeting participants to view the tab currently open on your browser.</chdesc>
+          </chrow>
+          <chrow>
+            <choption>Share <uicontrol>Window</uicontrol></choption>
+            <chdesc>Sharing your window allows participants to view a specific window or application. All other information on the computer screen will not be shared.</chdesc>
+          </chrow>
+          <chrow>
+            <choption>Share <uicontrol>Entire Screen</uicontrol></choption>
+            <chdesc>Sharing the entire screen allows participants to view your entire screen.</chdesc>
+          </chrow>
+        </choicetable>
       </step>
       <step>
         <cmd>Share your view with the meeting participants.</cmd>
@@ -50,10 +63,6 @@
           Users will see a red outline around the screen indicating that you are sharing content with those on the Teams meeting.
           </note>
         </info>
-      </step>
-      <step>
-        <cmd>Check that there is a red outline around the presentation screen.</cmd>
-        <info><note>Users will also see a red outline around the screen indicating that you are sharing content with those on the Teams meeting.</note></info>
       </step>
       <step audience="expert">
         <cmd>Click the <uicontrol>Audio Sharing</uicontrol> button from the presenter toolbar.</cmd>
